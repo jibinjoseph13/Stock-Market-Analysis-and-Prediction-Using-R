@@ -17,6 +17,7 @@ It provides a dashbaord page dedicated to displaying daily data of a stock with 
 It also predicts the future values of the stock upto next 30 days with the help of ARIMA forecasting both with seasonal and non seasonal components.
 
 **Data Files**
+
 The dataset used for this project is:
 
   stock_market.csv: This file contains information of each company, including:
