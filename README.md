@@ -20,9 +20,9 @@ It also predicts the future values of the stock upto next 30 days with the help 
 
 The dataset used for this project is:
 
-  stock_market.csv: This file contains information of each company, including:
-    Name
-    Sector
-    Ticker
-    Country
+stock_market.csv: This file contains information of each company, including:
+  Name
+  Sector
+  Ticker
+  Country
   
