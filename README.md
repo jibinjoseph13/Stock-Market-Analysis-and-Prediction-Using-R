@@ -24,22 +24,4 @@ The dataset used for this project is:
     Sector
     Ticker
     Country
-    
-**Requirements**
-
-For the interface to work it is necessary to install the next packages:
-
-  shiny
-  ggplot2
-  rtsdata
-  reshape
-  shinythemes
-  dygraphs
-  forecast
-  tidyquant
-  glue
-  rvest
-  stringr
-  quantmod
-  tseries
-  TTR# Stock-Market-Analysis-and-Prediction-Using-R
+  
