@@ -34,7 +34,7 @@ library(TTR)
 #________________________________________________________________#
 
 # Load file with company names and Tickers to extract values from yahoo finances
-elements <- read.csv("C:/Users/KARAN/Documents/Stock_Market/stock_data.csv", header = TRUE, sep = ';', fileEncoding = "UTF-8")
+elements <- read.csv("C:/Users/JIBIN/Documents/Stock_Market/stock_data.csv", header = TRUE, sep = ';', fileEncoding = "UTF-8")
 
 # Create variable with company names and their Symbols as values
 CompanySymbol <- unname(unlist(elements['Ticker']))
